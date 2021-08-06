@@ -1,0 +1,15 @@
+﻿@*@model DOLPHIN.DTO.AccountDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutLogin.cshtml";
+}
+
+@using (Html.BeginForm(FormMethod.Post))
+{
+    @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { placeholder = "Tài khoản" } })
+    @Html.EditorFor(model => model.PassWord, new { htmlAttributes = new { placeholder = "Mật khẩu" } })
+    <button>Đăng nhập</button>
+    <p class="message">Quên mật khẩu? <a href="#">Tạo tài khoản mới</a></p>
+}*@
+
+

@@ -1,0 +1,98 @@
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb

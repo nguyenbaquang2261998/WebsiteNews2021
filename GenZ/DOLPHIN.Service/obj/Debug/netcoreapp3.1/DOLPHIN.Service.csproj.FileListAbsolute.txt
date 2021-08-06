@@ -1,0 +1,216 @@
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.runtimeconfig.json
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.runtimeconfig.dev.json
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.genruntimeconfig.cache
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\ĐATN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\Đồ án - QUANG\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\DAI HOC\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\Đồ án - QUANG\DOLPHIN_v2_last_update\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\DAI HOC\Đồ án tốt nghiệp\DOLPHIN\DOLPHIN\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\h\Desktop\QL_KHAI_THAC_NƯỚC\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+C:\Users\nguye\OneDrive\Documents\Máy tính\QLKhaiThacNuoc\CLONE_QLNBD\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csprojAssemblyReference.cache
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfoInputs.cache
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.AssemblyInfo.cs
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CoreCompileInputs.cache
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.deps.json
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.dll
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Service\obj\Debug\netcoreapp3.1\DOLPHIN.Service.csproj.CopyComplete

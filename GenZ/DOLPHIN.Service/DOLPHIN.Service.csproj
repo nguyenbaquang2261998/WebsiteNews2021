@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.9" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.5" />
+    <PackageReference Include="System.Runtime.Serialization.Formatters" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DOLPHIN.DTO\DOLPHIN.DTO.csproj" />
+    <ProjectReference Include="..\DOLPHIN.Helpers\DOLPHIN.Helpers.csproj" />
+    <ProjectReference Include="..\DOLPHIN.Model\DOLPHIN.Model.csproj" />
+    <ProjectReference Include="..\DOLPHIN.Repository\DOLPHIN.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
