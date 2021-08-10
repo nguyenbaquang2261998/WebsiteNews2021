@@ -1,12 +1,16 @@
-﻿using DOLPHIN.Model;
-using DOLPHIN.Repository.UnitOfWorks.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+﻿// <copyright file="GenericUnitOfWork.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
 
 namespace DOLPHIN.Repository.UnitOfWorks
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Threading.Tasks;
+    using DOLPHIN.Model;
+    using DOLPHIN.Repository.UnitOfWorks.Interfaces;
+
     public class GenericUnitOfWork<TRepository, TInterface> : IGenericUnitOfWork<TInterface>
     where TRepository : TInterface
     {
@@ -29,6 +33,7 @@ namespace DOLPHIN.Repository.UnitOfWorks
         private TInterface repository;
 
         /// <summary>
+        /// Initializes a new instance of the <see cref="GenericUnitOfWork{TRepository, TInterface}"/> class.
         /// Initialises a new instance of the <see cref="GenericUnitOfWork{TRepository, TInterface}"/> class.
         /// </summary>
         /// <param name="context">context.</param>
@@ -38,6 +43,7 @@ namespace DOLPHIN.Repository.UnitOfWorks
         }
 
         /// <summary>
+        /// Finalizes an instance of the <see cref="GenericUnitOfWork{TRepository, TInterface}"/> class.
         /// Finalises an instance of the <see cref="GenericUnitOfWork{TRepository, TInterface}"/> class.
         /// </summary>
         ~GenericUnitOfWork()
@@ -72,6 +78,7 @@ namespace DOLPHIN.Repository.UnitOfWorks
         public void Dispose()
         {
             this.Dispose(true);
+
             // ReSharper disable once GCSuppressFinalizeForTypeWithoutDestructor
             GC.SuppressFinalize(true);
         }

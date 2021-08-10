@@ -2664,3 +2664,4 @@ D:\MakeMoneyWebsite\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.Views.pdb
 D:\MakeMoneyWebsite\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.csproj.CopyComplete
 D:\MakeMoneyWebsite\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.genruntimeconfig.cache
 D:\MakeMoneyWebsite\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.MvcApplicationPartsAssemblyInfo.cs
+D:\MakeMoneyWebsite\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Login\Register.cshtml.g.cs

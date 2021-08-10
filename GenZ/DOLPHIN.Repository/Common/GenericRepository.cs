@@ -1,11 +1,15 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Linq;
-using System.Threading.Tasks;
-using DOLPHIN.Model;
+﻿// <copyright file="GenericRepository.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
 
 namespace DOLPHIN.Repository.Common
 {
+    using System;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using DOLPHIN.Model;
+    using Microsoft.EntityFrameworkCore;
+
     /// <summary>
     /// GenericRepository.
     /// </summary>

@@ -15,7 +15,14 @@ namespace DOLPHIN.Model
             this.Configs = configurations;
             this.isMemoryDatabase = isMemoryDatabase;
         }
-        
+        public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<Subscriber> Subscriber { get; set; }
+        public virtual DbSet<News> News { get; set; }
+        public virtual DbSet<Comment> Comment { get; set; }
+        public virtual DbSet<Category> Category { get; set; }
+        public virtual DbSet<Backup> Backup { get; set; }
+        public virtual DbSet<Author> Author { get; set; }
+
         protected IConfiguration Configs { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -32,7 +39,7 @@ namespace DOLPHIN.Model
                 // optionsBuilder.UseSecondLevelCache();
             }
             optionsBuilder
-                .UseMySql("server=localhost;database=dolphin;user=root;password=;sslmode=none;")
+                .UseMySql("server=localhost;database=genz;user=root;password=;sslmode=none;")
                 .UseLoggerFactory(LoggerFactory.Create(b => b
                 .AddFilter(level => level >= LogLevel.Information)))
                 .EnableSensitiveDataLogging()
@@ -40,7 +47,6 @@ namespace DOLPHIN.Model
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
         }
     }
 }

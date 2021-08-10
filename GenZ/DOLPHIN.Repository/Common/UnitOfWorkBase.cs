@@ -1,9 +1,13 @@
-﻿using DOLPHIN.Model;
-using System;
-using System.Threading.Tasks;
+﻿// <copyright file="UnitOfWorkBase.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
 
 namespace DOLPHIN.Repository.Common
 {
+    using System;
+    using System.Threading.Tasks;
+    using DOLPHIN.Model;
+
     /// <summary>
     /// The Entity Framework implementation of IUnitOfWork.
     /// </summary>

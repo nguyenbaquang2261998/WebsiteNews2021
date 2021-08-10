@@ -96,3 +96,4 @@ D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exce
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\MakeMoneyWebsite\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache

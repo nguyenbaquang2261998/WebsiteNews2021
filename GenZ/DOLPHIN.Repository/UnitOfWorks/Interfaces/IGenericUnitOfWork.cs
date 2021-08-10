@@ -1,7 +1,11 @@
-﻿using DOLPHIN.Repository.Common;
+﻿// <copyright file="IGenericUnitOfWork.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
 
 namespace DOLPHIN.Repository.UnitOfWorks.Interfaces
 {
+    using DOLPHIN.Repository.Common;
+
     /// <summary>
     /// IGenericUnitOfWork.
     /// </summary>
