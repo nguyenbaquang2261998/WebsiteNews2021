@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "DOLPHIN.DTO": "1.0.0",
+          "DOLPHIN.Exceptions": "1.0.0",
           "DOLPHIN.Helpers": "1.0.0",
           "DOLPHIN.Model": "1.0.0",
           "DOLPHIN.Repository": "1.0.0",
@@ -458,6 +459,11 @@
           "DOLPHIN.DTO.dll": {}
         }
       },
+      "DOLPHIN.Exceptions/1.0.0": {
+        "runtime": {
+          "DOLPHIN.Exceptions.dll": {}
+        }
+      },
       "DOLPHIN.Helpers/1.0.0": {
         "dependencies": {
           "DOLPHIN.DTO": "1.0.0",
@@ -843,6 +849,11 @@
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
     "DOLPHIN.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DOLPHIN.Exceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

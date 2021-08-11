@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
+      "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
       "projectName": "DOLPHIN.Exceptions",
-      "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
+      "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Exceptions\\obj\\",
+      "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

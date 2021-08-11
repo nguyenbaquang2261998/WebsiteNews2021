@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {}
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {}
   },
   "projects": {
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
         "projectName": "DOLPHIN.DTO",
-        "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\obj\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
               }
             }
           }
@@ -74,14 +74,68 @@
         }
       }
     },
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
-        "projectName": "DOLPHIN.Helpers",
-        "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
+        "projectName": "DOLPHIN.Exceptions",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\obj\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
+        "projectName": "DOLPHIN.Helpers",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +152,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
               }
             }
           }
@@ -142,14 +196,14 @@
         }
       }
     },
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
         "projectName": "DOLPHIN.Model",
-        "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\obj\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,14 +280,14 @@
         }
       }
     },
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
         "projectName": "DOLPHIN.Repository",
-        "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\obj\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,8 +304,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
               }
             }
           }
@@ -314,14 +368,14 @@
         }
       }
     },
-    "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
+    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
+        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
         "projectName": "DOLPHIN.Service",
-        "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
+        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\obj\\",
+        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -338,17 +392,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
               },
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj"
               },
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
               },
-              "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
-                "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+              },
+              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
+                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
               }
             }
           }

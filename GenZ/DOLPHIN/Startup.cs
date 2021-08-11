@@ -55,7 +55,7 @@ namespace DOLPHIN
             builder.RegisterModule(new EfModule());
             builder.RegisterModule(new LoggerModule());
             builder.RegisterModule(new MappingModule());
-            //    builder.RegisterModule(new UnitOfWorkModule());
+            builder.RegisterModule(new UnitOfWorkModule());
             builder.RegisterModule(new HelperModule());
             this.ApplicationContainer = builder.Build();
             return new AutofacServiceProvider(this.ApplicationContainer);

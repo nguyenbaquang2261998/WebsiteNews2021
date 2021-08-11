@@ -150,3 +150,15 @@ D:\MakeMoneyWebsite\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.genruntimeconfig.cache
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.csprojAssemblyReference.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.deps.json
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.runtimeconfig.json
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.runtimeconfig.dev.json
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.csprojAssemblyReference.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.AssemblyInfoInputs.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.AssemblyInfo.cs
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.csproj.CoreCompileInputs.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.genruntimeconfig.cache

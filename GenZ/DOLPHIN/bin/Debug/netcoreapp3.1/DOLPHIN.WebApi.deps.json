@@ -1705,6 +1705,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "DOLPHIN.DTO": "1.0.0",
+          "DOLPHIN.Exceptions": "1.0.0",
           "DOLPHIN.Helpers": "1.0.0",
           "DOLPHIN.Model": "1.0.0",
           "DOLPHIN.Repository": "1.0.0",

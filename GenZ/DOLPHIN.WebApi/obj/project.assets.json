@@ -1758,6 +1758,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "DOLPHIN.DTO": "1.0.0",
+          "DOLPHIN.Exceptions": "1.0.0",
           "DOLPHIN.Helpers": "1.0.0",
           "DOLPHIN.Model": "1.0.0",
           "DOLPHIN.Repository": "1.0.0",
@@ -6160,11 +6161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
+      "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
       "projectName": "DOLPHIN.WebApi",
-      "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
+      "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.WebApi\\obj\\",
+      "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6181,26 +6182,26 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
             },
-            "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
-              "projectPath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj"
+            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
+              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj"
             }
           }
         }

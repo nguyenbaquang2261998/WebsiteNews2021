@@ -142,3 +142,17 @@ D:\MakeMoneyWebsite\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.csproj.CopyComplete
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
 D:\MakeMoneyWebsite\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.deps.json
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.csprojAssemblyReference.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.AssemblyInfoInputs.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.AssemblyInfo.cs
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.csproj.CoreCompileInputs.cache
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.csproj.CopyComplete
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.dll
+D:\WebsiteNews2021\GenZ\DOLPHIN.Helpers\obj\Debug\netcoreapp3.1\DOLPHIN.Helpers.pdb

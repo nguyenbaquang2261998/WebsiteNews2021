@@ -4,13 +4,13 @@ using System.Text;
 
 namespace DOLPHIN.Exceptions
 {
-    public class DOLPHINException : Exception
+    public class DolphinException : Exception
     {
         /// <summary>
-        /// Initialises a new instance of the <see cref="DOLPHINException"/> class.
+        /// Initialises a new instance of the <see cref="DolphinException"/> class.
         /// </summary>
         /// <param name="code">code.</param>
-        public DOLPHINException(ErrorCode code)
+        public DolphinException(ErrorCode code)
             : base(code.ToString())
         {
             this.HResult = (int)code;
@@ -21,7 +21,7 @@ namespace DOLPHIN.Exceptions
         /// </summary>
         /// <param name="code">code.</param>
         /// <param name="message">message.</param>
-        public DOLPHINException(ErrorCode code, string message)
+        public DolphinException(ErrorCode code, string message)
             : base(message)
         {
             this.HResult = (int)code;

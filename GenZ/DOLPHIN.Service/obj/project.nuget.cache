@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0qnOVxdtKElCmZqfJQ+LiHGrs00JbPCHTNLFgQ7AySMVfd03BegKyLwRaJKQYQ29jBsvH8PeTWSDQBS60YwXAg==",
+  "dgSpecHash": "MPYp8GHAm0ltNf34CZnKcrqtR0uUTTkhhWEKZw0+uZZcbRNliQ/vPWuMRTo5LOTgkc/LH9hIBBFkeI458VYO1g==",
   "success": true,
-  "projectFilePath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
+  "projectFilePath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

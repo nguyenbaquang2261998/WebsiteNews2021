@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R7U0ZegLdHNp//691mp+daqcc19p67aILtAJTR1e6vk/Yrq9fwesCsUMIa/BOQhS5G/XZBrF/wWgI5AcFfJ0lA==",
+  "dgSpecHash": "Vc98tspYKBDdCI1gO3PYm989oxTCe61Soi5QD0KlmgzX9HyL710UMN9+VgyONcbR3hiT7D5EFi1cDm+dCeknsA==",
   "success": true,
-  "projectFilePath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
+  "projectFilePath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

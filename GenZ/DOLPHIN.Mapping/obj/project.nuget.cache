@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wfwIK/6h1kE3oS3TWqbBJtpPsdKHdSfaOD9nx5teoerAeZeONgayjsgdrfMAm6ZbeZSvb5zWcSUJI36+syqk/w==",
+  "dgSpecHash": "VSUxz4h6lYF4OX9gzZuCMMen8Pgabee+tR7KtxCYEIOYjJTq80qfKXE2OexmCHoZ/b6S4EpKRXCnXtULfNfn9A==",
   "success": true,
-  "projectFilePath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj",
+  "projectFilePath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",

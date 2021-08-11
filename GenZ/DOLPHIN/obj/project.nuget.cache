@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hIaUEh6dNZd7lQI47Ye9fRYGZU+HnoMoFzplOotTxfZBs1vD2IdSoPUwxT+10eyC2ZtefNz4oCdkqdkrClx8zQ==",
+  "dgSpecHash": "kaJUFT2mLjihWBn2s/x7q5gKRoRjvPiil+jW9mzZsPUHiZ9nzDHBYNR5/3jYaSfg1quipc9YWDsUyHPD+aMcVg==",
   "success": true,
-  "projectFilePath": "D:\\MakeMoneyWebsite\\GenZ\\DOLPHIN\\DOLPHIN.csproj",
+  "projectFilePath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN\\DOLPHIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -1,4 +1,6 @@
-﻿using DOLPHIN.DTO;
+﻿using AutoMapper;
+using DOLPHIN.DTO;
+using DOLPHIN.Exceptions;
 using DOLPHIN.Model;
 using DOLPHIN.Repository.UnitOfWorks.Interfaces;
 using DOLPHIN.Service.Interfaces;
@@ -8,18 +10,34 @@ using System.Threading.Tasks;
 
 namespace DOLPHIN.Service.Services
 {
-    public class ArticlesSevice : IArticleService
+    public class ArticlesService : IArticleService
     {
         private readonly INewsUnitOfWork newsUnitOfWork;
-        public ArticlesSevice(INewsUnitOfWork newsUnitOfWork)
+        private readonly IMapper mapper;
+        public ArticlesService(INewsUnitOfWork newsUnitOfWork, IMapper mapper)
         {
             this.newsUnitOfWork = newsUnitOfWork;
+            this.mapper = mapper;
         }
 
         public async Task<List<News>> GetAll()
         {
             var articles = (await this.newsUnitOfWork.NewsRepository.GetAll()).ToList();
             return articles;
+        }
+
+        public async Task<bool> CreateArticles(ArticlesDto articles)
+        {
+            if (articles == null)
+            {
+                throw new DolphinException(ErrorCode.ArgumentInvalid, nameof(articles));
+            }
+            if (articles.CategoryId <= 0 || !string.IsNullOrEmpty(articles.Title) || articles.AuthorId <= 0 || !string.IsNullOrEmpty(articles.Content))
+            {
+                throw new DolphinException(ErrorCode.ArgumentInvalid, nameof(articles));
+            }
+            await this.newsUnitOfWork.NewsRepository.Add(this.mapper.Map<News>(articles));
+            return await this.newsUnitOfWork.Commit() > 0;
         }
 
         public async Task<List<News>> Search(ArticleSearchDto searchDto)

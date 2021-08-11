@@ -13,13 +13,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DOLPHIN.DTO\DOLPHIN.DTO.csproj" />
+    <ProjectReference Include="..\DOLPHIN.Exceptions\DOLPHIN.Exceptions.csproj" />
     <ProjectReference Include="..\DOLPHIN.Helpers\DOLPHIN.Helpers.csproj" />
     <ProjectReference Include="..\DOLPHIN.Model\DOLPHIN.Model.csproj" />
     <ProjectReference Include="..\DOLPHIN.Repository\DOLPHIN.Repository.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
