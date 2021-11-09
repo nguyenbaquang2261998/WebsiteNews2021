@@ -2887,3 +2887,5 @@ D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.dll
 D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.pdb
 D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.genruntimeconfig.cache
 D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articles\Index.cshtml.g.cs
+D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articles\Create.cshtml.g.cs
+D:\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articles\Update.cshtml.g.cs

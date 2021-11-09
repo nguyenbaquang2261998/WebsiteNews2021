@@ -7,6 +7,11 @@ namespace DOLPHIN.Exceptions
         /// <summary>
         /// InvitationNotOfUser.
         /// </summary>
-        ArgumentInvalid = 1000
+        ArgumentInvalid = 1000,
+
+        /// <summary>
+        /// AritclesNotFound.
+        /// </summary>
+        AritclesNotFound = 1001
     }
 }

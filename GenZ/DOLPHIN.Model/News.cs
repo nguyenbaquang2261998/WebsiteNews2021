@@ -23,5 +23,6 @@ namespace DOLPHIN.Model
         public virtual Author Author { get; set; }
         public int AuthorId { get; set; }
         public int Status { get; set; }
+        public string CoverImage { get; set; }
     }
 }

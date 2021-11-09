@@ -1,0 +1,49 @@
+﻿@model DOLPHIN.DTO.ArticlesDto
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+@{ ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml"; }
+
+<div class="card">
+    <div class="card-header">
+        <strong>Create</strong> Articles
+    </div>
+    <div class="card-body card-block">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Articles Category</label>
+                @Html.DropDownListFor(model => model.CategoryId, ViewBag.ListCategories as SelectList, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Title</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2" asp-for="CoverImage">Cover Image</label>
+                <div class="col-md-10">
+                    <input class="btn btn-info" type="file" name="file" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label">Article Content</label>
+                @Html.TextAreaFor(model => model.Content, new { @id = "ckeditor", @class = "form-control" })
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AuthorId" class="control-label">Author</label>
+                @Html.DropDownListFor(model => model.AuthorId, ViewBag.ListAuthors as SelectList, new { @class = "form-control" })
+            </div>
+            <button type="submit" value="Create" class="btn btn-primary btn-sm">
+                <i class="fas fa-save"></i> Submit
+            </button>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script>
+        CKEDITOR.replace("ckeditor");
+    </script>
+}
+

@@ -1,4 +1,5 @@
-﻿
+﻿@using DOLPHIN.Helpers.Enums;
+@model IEnumerable<DOLPHIN.Model.News>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
@@ -6,7 +7,7 @@
 
 <div class="row">
     <div class="col-md-12">
-         DATA TABLE 
+        DATA TABLE
         <h3 class="title-5 m-b-35">data table</h3>
         <div class="table-data__tool">
             <div class="table-data__tool-left">
@@ -48,164 +49,94 @@
             <table class="table table-data2">
                 <thead>
                     <tr>
-                        <th>
-                            <label class="au-checkbox">
-                                <input type="checkbox">
-                                <span class="au-checkmark"></span>
-                            </label>
-                        </th>
-                        <th>name</th>
-                        <th>email</th>
-                        <th>description</th>
-                        <th>date</th>
-                        <th>status</th>
-                        <th>price</th>
-                        <th></th>
+                        <th>Id</th>
+                        <th>Author</th>
+                        <th>Description</th>
+                        <th>Publish</th>
+                        <th>Update</th>
+                        <th>Status</th>
+                        <th>Action</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr class="tr-shadow">
-                        <td>
-                            <label class="au-checkbox">
-                                <input type="checkbox">
-                                <span class="au-checkmark"></span>
-                            </label>
-                        </td>
-                        <td>Lori Lynch</td>
-                        <td>
-                            <span class="block-email">lori@example.com</span>
-                        </td>
-                        <td class="desc">Samsung S8 Black</td>
-                        <td>2018-09-27 02:12</td>
-                        <td>
-                            <span class="status--process">Processed</span>
-                        </td>
-                        <td>$679.00</td>
-                        <td>
-                            <div class="table-data-feature">
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Send">
-                                    <i class="zmdi zmdi-mail-send"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
-                                    <i class="zmdi zmdi-edit"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Delete">
-                                    <i class="zmdi zmdi-delete"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="More">
-                                    <i class="zmdi zmdi-more"></i>
-                                </button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr class="spacer"></tr>
-                    <tr class="tr-shadow">
-                        <td>
-                            <label class="au-checkbox">
-                                <input type="checkbox">
-                                <span class="au-checkmark"></span>
-                            </label>
-                        </td>
-                        <td>Lori Lynch</td>
-                        <td>
-                            <span class="block-email">john@example.com</span>
-                        </td>
-                        <td class="desc">iPhone X 64Gb Grey</td>
-                        <td>2018-09-29 05:57</td>
-                        <td>
-                            <span class="status--process">Processed</span>
-                        </td>
-                        <td>$999.00</td>
-                        <td>
-                            <div class="table-data-feature">
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Send">
-                                    <i class="zmdi zmdi-mail-send"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
-                                    <i class="zmdi zmdi-edit"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Delete">
-                                    <i class="zmdi zmdi-delete"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="More">
-                                    <i class="zmdi zmdi-more"></i>
-                                </button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr class="spacer"></tr>
-                    <tr class="tr-shadow">
-                        <td>
-                            <label class="au-checkbox">
-                                <input type="checkbox">
-                                <span class="au-checkmark"></span>
-                            </label>
-                        </td>
-                        <td>Lori Lynch</td>
-                        <td>
-                            <span class="block-email">lyn@example.com</span>
-                        </td>
-                        <td class="desc">iPhone X 256Gb Black</td>
-                        <td>2018-09-25 19:03</td>
-                        <td>
-                            <span class="status--denied">Denied</span>
-                        </td>
-                        <td>$1199.00</td>
-                        <td>
-                            <div class="table-data-feature">
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Send">
-                                    <i class="zmdi zmdi-mail-send"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
-                                    <i class="zmdi zmdi-edit"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Delete">
-                                    <i class="zmdi zmdi-delete"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="More">
-                                    <i class="zmdi zmdi-more"></i>
-                                </button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr class="spacer"></tr>
-                    <tr class="tr-shadow">
-                        <td>
-                            <label class="au-checkbox">
-                                <input type="checkbox">
-                                <span class="au-checkmark"></span>
-                            </label>
-                        </td>
-                        <td>Lori Lynch</td>
-                        <td>
-                            <span class="block-email">doe@example.com</span>
-                        </td>
-                        <td class="desc">Camera C430W 4k</td>
-                        <td>2018-09-24 19:10</td>
-                        <td>
-                            <span class="status--process">Processed</span>
-                        </td>
-                        <td>$699.00</td>
-                        <td>
-                            <div class="table-data-feature">
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Send">
-                                    <i class="zmdi zmdi-mail-send"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
-                                    <i class="zmdi zmdi-edit"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="Delete">
-                                    <i class="zmdi zmdi-delete"></i>
-                                </button>
-                                <button class="item" data-toggle="tooltip" data-placement="top" title="More">
-                                    <i class="zmdi zmdi-more"></i>
-                                </button>
-                            </div>
-                        </td>
-                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="tr-shadow">
+                            <td>@item.Id</td>
+                            <td>@item.Author.DisplayName</td>
+                            <td>@item.Title</td>
+                            <td>@item.CreatedDate</td>
+                            <td>@item.UpdatedDate</td>
+                            <td>
+                                @if (item.Status == (int)EnArticleStatus.Approved)
+                                {
+                                    <span class="status--process">Approved</span>
+                                }
+                                @if (item.Status == (int)EnArticleStatus.Pending)
+                                {
+                                    <span class="status--denied">Pending</span>
+                                }
+                                @if (item.Status == (int)EnArticleStatus.Delete)
+                                {
+                                    <span class="status--denied">Delete</span>
+                                }
+                            </td>
+                            <td>
+                                <div class="table-data-feature">
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="Edit">
+                                        <a href="/Admin/Articles/Update/@item.Id"><i class="zmdi zmdi-edit"></i></a>
+                                    </span>
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="Delete">
+                                        <a onclick="Delete(@item.Id)"><i class="zmdi zmdi-delete"></i></a>
+                                    </span>
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="More">
+                                        <i class="zmdi zmdi-more"></i>
+                                    </span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="spacer"></tr>
+                    }
                 </tbody>
             </table>
         </div>
-         END DATA TABLE 
+        Total record : @ViewBag.TotalRecord
     </div>
 </div>
+<script>
+    function Delete(Id) {
+        var data = {
+            Id: Id,
+        };
+        var title = "Bạn có đồng ý xóa dữ liệu này không?";
+        var url = '/Admin/Articles/Delete/';
+        swal({
+            title: title,
+            icon: "warning",
+            buttons: {
+                ok: "Xác nhận",
+                cancel: "Hủy",
+            }
+        }).then((isConfirm) => {
+            if (isConfirm != 'ok') {
+
+            } else {
+                $.post(url, data,
+                    function (rs) {
+                        if (rs.status > 0) {
+                            swal({
+                                title: "Xóa thành công!",
+                                text: "Dữ liệu của bạn đã được cập nhật!",
+                                icon: "success",
+                            }).then(function (isConfirm) {
+                                window.location.href = '/Admin/Articles';
+                            });
+                        }
+                        else {
+                            toastr.error(rs.message);
+                        }
+                    });
+            }
+        });
+    }
+</script>

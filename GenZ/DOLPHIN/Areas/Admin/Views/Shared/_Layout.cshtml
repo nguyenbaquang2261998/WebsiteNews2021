@@ -42,7 +42,7 @@
             <div class="header-mobile__bar">
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
-                        <a class="logo" href="index.html">
+                        <a class="logo" href="/admin">
                             <img src="~/admin/images/icon/logo.png" alt="CoolAdmin" />
                         </a>
                         <button class="hamburger hamburger--slider" type="button">
@@ -196,13 +196,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="table.html">
+                            <a href="/admin/articles">
                                 <i class="fas fa-table"></i>Tables
                             </a>
                         </li>
                         <li>
-                            <a href="form.html">
-                                <i class="far fa-check-square"></i>Forms
+                            <a href="/admin/articles">
+                                <i class="far fa-newspaper"></i>Article
                             </a>
                         </li>
                         <li>
@@ -487,10 +487,13 @@
     <script src="~/admin/vendor/chartjs/Chart.bundle.min.js"></script>
     <script src="~/admin/vendor/select2/select2.min.js">
     </script>
-
+    <!-- CKEditor-->
+    <script src="~/admin/ckeditor/ckeditor.js"></script>
+    <!-- Sweet Alert-->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <!-- Main JS-->
     <script src="~/admin/js/main.js"></script>
-
+    @RenderSection("Scripts", false);
 </body>
 
 </html>
