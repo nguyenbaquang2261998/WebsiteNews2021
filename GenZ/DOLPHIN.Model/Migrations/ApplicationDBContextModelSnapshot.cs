@@ -150,6 +150,15 @@ namespace DOLPHIN.Model.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<string>("MetaDescription")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("MetaKeyword")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.Property<string>("MetaTitle")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
                     b.Property<int>("Status")
                         .HasColumnType("int");
 

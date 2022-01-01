@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {}
+    "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {}
   },
   "projects": {
-    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+    "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
+        "projectUniqueName": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
         "projectName": "DOLPHIN.Model",
-        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\obj\\",
+        "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj",
+        "packagesPath": "C:\\Users\\QuangNB\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\QuangNB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,21 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
+    "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
+        "projectUniqueName": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
         "projectName": "DOLPHIN.Repository",
-        "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\obj\\",
+        "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj",
+        "packagesPath": "C:\\Users\\QuangNB\\.nuget\\packages\\",
+        "outputPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\QuangNB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,8 +118,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-                "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+              "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+                "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
               }
             }
           }
@@ -172,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

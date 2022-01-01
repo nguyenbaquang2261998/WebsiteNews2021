@@ -20,6 +20,9 @@ namespace DOLPHIN
         public static IWebHost CreateHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>().Build();
+
+        // Using when Add migration.
+
         //public static void Main(string[] args)
         //{
         //    CreateHostBuilder(args).Build().Run();

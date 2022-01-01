@@ -16,5 +16,8 @@ namespace DOLPHIN.DTO
         public int AuthorId { get; set; }
         public int Status { get; set; }
         public string CoverImage { get; set; }
+        public string MetaTitle { get; set; }
+        public string MetaDescription { get; set; }
+        public string MetaKeyword { get; set; }
     }
 }

@@ -6156,19 +6156,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nguye\\.nuget\\packages\\": {}
+    "C:\\Users\\QuangNB\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
+      "projectUniqueName": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
       "projectName": "DOLPHIN.WebApi",
-      "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\obj\\",
+      "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
+      "packagesPath": "C:\\Users\\QuangNB\\.nuget\\packages\\",
+      "outputPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QuangNB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6182,26 +6186,26 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Exceptions\\DOLPHIN.Exceptions.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Mapping\\DOLPHIN.Mapping.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Model\\DOLPHIN.Model.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Repository\\DOLPHIN.Repository.csproj"
             },
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj"
             }
           }
         }
@@ -6261,7 +6265,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },

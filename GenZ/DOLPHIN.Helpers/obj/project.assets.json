@@ -1122,19 +1122,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nguye\\.nuget\\packages\\": {}
+    "C:\\Users\\QuangNB\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
+      "projectUniqueName": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
       "projectName": "DOLPHIN.Helpers",
-      "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\obj\\",
+      "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\DOLPHIN.Helpers.csproj",
+      "packagesPath": "C:\\Users\\QuangNB\\.nuget\\packages\\",
+      "outputPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Helpers\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QuangNB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1148,8 +1152,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
-              "projectPath": "D:\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
+            "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj": {
+              "projectPath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.DTO\\DOLPHIN.DTO.csproj"
             }
           }
         }
@@ -1188,7 +1192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

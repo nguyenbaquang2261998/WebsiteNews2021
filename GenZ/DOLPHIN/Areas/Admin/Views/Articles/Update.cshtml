@@ -12,7 +12,7 @@
         <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="CategoryId" class="control-label">Article Category</label>
+                <label asp-for="CategoryId" class="control-label">Articles Category</label>
                 @Html.DropDownListFor(model => model.CategoryId, ViewBag.ListCategories as SelectList, new { @class = "form-control" })
             </div>
             <div class="form-group">
@@ -21,13 +21,24 @@
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="MetaTitle" class="control-label">Meta Title <span class="text-warning"> - Tối đa 50 - 60 kí tự</span></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MetaKeyword" class="control-label">Meta Keyword</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MetaDescription" class="control-label">Meta Description <span class="text-warning"> - Tối đa 150 kí tự (tốt nhất là 120)</span> </label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label class="control-label col-md-2" asp-for="CoverImage">Cover Image</label>
                 <div class="col-md-10">
                     <input class="btn btn-info" type="file" name="file" />
-                    @if (Model.CoverImage != null)
-                    {
-                        <span>img: @Model.CoverImage</span>
-                    }
                 </div>
             </div>
             <div class="form-group">
@@ -40,7 +51,7 @@
                 @Html.DropDownListFor(model => model.AuthorId, ViewBag.ListAuthors as SelectList, new { @class = "form-control" })
             </div>
             <button type="submit" value="Create" class="btn btn-primary btn-sm">
-                <i class="fas fa-save"></i> Submit
+                <i class="fas fa-subway"></i> Submit
             </button>
         </form>
     </div>

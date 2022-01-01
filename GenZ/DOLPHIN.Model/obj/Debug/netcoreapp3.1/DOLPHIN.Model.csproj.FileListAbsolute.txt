@@ -162,3 +162,15 @@ D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.cspr
 D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.dll
 D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
 D:\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.genruntimeconfig.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.deps.json
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.runtimeconfig.json
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.runtimeconfig.dev.json
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.csprojAssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.AssemblyInfoInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.AssemblyInfo.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.csproj.CoreCompileInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Model\obj\Debug\netcoreapp3.1\DOLPHIN.Model.genruntimeconfig.cache

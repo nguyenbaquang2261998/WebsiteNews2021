@@ -106,3 +106,12 @@ D:\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Excep
 D:\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
 D:\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
 D:\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.deps.json
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\bin\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csprojAssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfoInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.AssemblyInfo.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.csproj.CoreCompileInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Exceptions\obj\Debug\netcoreapp3.1\DOLPHIN.Exceptions.pdb
