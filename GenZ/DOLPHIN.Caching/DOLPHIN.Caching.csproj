@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="8.0.2" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="8.0.2" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Newtonsoft" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Helper\" />
+  </ItemGroup>
+
+</Project>

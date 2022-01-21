@@ -13,9 +13,4 @@
     <ProjectReference Include="..\DOLPHIN.DTO\DOLPHIN.DTO.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>

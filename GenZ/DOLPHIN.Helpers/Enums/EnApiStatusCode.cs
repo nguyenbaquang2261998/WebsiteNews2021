@@ -9,12 +9,12 @@ namespace DOLPHIN.Helpers.Enums
         /// <summary>
         /// Success
         /// </summary>
-        Success = 1,
+        Success = 0,
 
         /// <summary>
-        /// Error
+        /// Bad Request
         /// </summary>
-        Error = 0,
+        BadRequest = 400,
 
         /// <summary>
         /// Fail

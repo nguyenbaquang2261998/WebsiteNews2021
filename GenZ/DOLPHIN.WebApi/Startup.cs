@@ -20,6 +20,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using StackExchange.Redis.Extensions.Core.Configuration;
+using StackExchange.Redis.Extensions.Newtonsoft;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using Swashbuckle.Swagger;
 using VADAR.WebAPI.Modules;
@@ -47,6 +49,11 @@ namespace DOLPHIN.WebApi
             });
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             services.AddMemoryCache();
+
+            // Config redis
+            var redisConfiguration = Configuration.GetSection("Redis").Get<RedisConfiguration>();
+            services.AddControllersWithViews();
+            services.AddStackExchangeRedisExtensions<NewtonsoftSerializer>(redisConfiguration);
 
             // _ = services.AddAutoMapper(c => c.AddProfile(new DtoProfile()));
             services.AddAutoMapper(typeof(DtoProfile));
