@@ -23,6 +23,9 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Controllers\Articles\ViewComponents\" />
+    <Folder Include="Controllers\Crypto\ViewComponents\" />
+    <Folder Include="Views\Crypto\Components\" />
     <Folder Include="wwwroot\upload\" />
   </ItemGroup>
 

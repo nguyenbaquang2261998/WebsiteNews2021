@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FI1Zfs1ez8YAyWupyeVYtyzE6DrE9b5QE88NmhGOBv1f+QHFWW+ycde6FZeEwQrj7zpy+q9J8xNl/6ehXx+tFQ==",
+  "dgSpecHash": "I+bQs7b3a0OtrnIdXKqDJANnWCh4+3WpeeOt0LbsZUUjY6VMH+L7dx/NgxRRqj06lkP5R3qBXsRF9zxgZSiLjA==",
   "success": true,
   "projectFilePath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.Service\\DOLPHIN.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QuangNB\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\lazycache\\2.4.0\\lazycache.2.4.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

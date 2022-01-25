@@ -3137,3 +3137,6 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\runt
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\LazyCache.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Crypto\_CryptoCategories.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\CryptoCategories\Default.cshtml.g.cs

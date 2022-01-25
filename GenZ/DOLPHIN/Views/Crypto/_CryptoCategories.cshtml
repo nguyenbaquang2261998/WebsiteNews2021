@@ -1,0 +1,11 @@
+﻿@model List<DOLPHIN.DTO.CryptoCurrencyCategories>
+@if (Model != null)
+{
+    <div>
+        List crypto in 2022:
+        @foreach (var item in Model)
+        {
+            <p>Name: @item.Name</p>
+        }
+    </div>
+}

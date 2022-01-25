@@ -1,0 +1,9 @@
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\bin\Debug\netcoreapp3.1\DOLPHIN.Caching.deps.json
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\bin\Debug\netcoreapp3.1\DOLPHIN.Caching.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\bin\Debug\netcoreapp3.1\DOLPHIN.Caching.pdb
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.csprojAssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.AssemblyInfoInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.AssemblyInfo.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.csproj.CoreCompileInputs.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.Caching\obj\Debug\netcoreapp3.1\DOLPHIN.Caching.pdb

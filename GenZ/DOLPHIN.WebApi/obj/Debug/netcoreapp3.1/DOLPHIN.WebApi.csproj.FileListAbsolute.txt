@@ -1236,3 +1236,4 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\LazyCache.dll

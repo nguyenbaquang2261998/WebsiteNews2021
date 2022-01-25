@@ -25,13 +25,26 @@ namespace DOLPHIN.Service.Services
             List<CryptoCurrencyCategories> categories = new List<CryptoCurrencyCategories>();
             if (response != null) {
                 var result = JsonConvert.DeserializeObject<dynamic>(response);
-                if (result != null && result.status.error == EnApiStatusCode.Success) {
-                    
-                    foreach (var item in response) {
-
+                if (result != null && result.status.error_code == (int)EnApiStatusCode.Success) {
+                    foreach (var item in result?.data) {
+                        CryptoCurrencyCategories cryptoCategory = new CryptoCurrencyCategories()
+                        {
+                            Id = item.id,
+                            Name = item.name,
+                            Title = item.title,
+                            Description = item.description,
+                            NumTokens = item.num_tokens,
+                            AvgPriceChange = item.avg_price_change,
+                            MarketCap = item.market_cap,
+                            MarketCapChange = item.market_cap_change,
+                            Volume = item.volume,
+                            VolumeChange = item.volume_change,
+                            LastUpdated = item.last_updated
+                        };
+                        categories.Add(cryptoCategory);
                     }
                 }
-                return await result;
+                return categories;
             }
 
             return categories;

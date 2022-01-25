@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZubNOK4BtGaNa+EazAkQN7Q3iga9FSRsiL8rpjGd7EzZtvpFW80Ya5BLH44UTYqAmxt5i/QyvUfJTseHs6fwLg==",
+  "dgSpecHash": "D6oYqnws4OziL8VFq9K1mWjwY1eewX4buBPLaZUxULfI0LV2ZIeb0lSskZf2ZF6MfLglzKu/iXwmoDYV8ebTWw==",
   "success": true,
   "projectFilePath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN.WebApi\\DOLPHIN.WebApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\QuangNB\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\lazycache\\2.4.0\\lazycache.2.4.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",

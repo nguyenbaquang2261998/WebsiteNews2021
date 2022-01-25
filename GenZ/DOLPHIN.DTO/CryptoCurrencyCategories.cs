@@ -11,12 +11,11 @@ namespace DOLPHIN.DTO
         public string Title { get; set; }
         public string Description { get; set; }
         public int NumTokens { get; set; }
-        public bool AvgPriceChange { get; set; }
-        public bool MarketCap { get; set; }
-        public bool MarketCapChange { get; set; }
-        public bool Volume { get; set; }
-        public bool Volume_change { get; set; }
-        public bool VolumeChange { get; set; }
-        public long LastUpdated { get; set; }
+        public double AvgPriceChange { get; set; }
+        public double MarketCap { get; set; }
+        public double MarketCapChange { get; set; }
+        public double Volume { get; set; }
+        public double VolumeChange { get; set; }
+        public DateTime LastUpdated { get; set; }
     }
 }

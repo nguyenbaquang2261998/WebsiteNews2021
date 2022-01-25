@@ -3,6 +3,7 @@ using DOLPHIN.Exceptions;
 using DOLPHIN.Model;
 using DOLPHIN.Repository.UnitOfWorks.Interfaces;
 using DOLPHIN.Service.Interfaces;
+using LazyCache;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace DOLPHIN.Service.Services
     {
         private readonly ICategoryUnitOfWork categoryUnitOfWork;
         private readonly IMapper mapper;
+        private IAppCache cache = new CachingService();
 
         public CategoriesService(ICategoryUnitOfWork categoryUnitOfWork, IMapper mapper)
         {
@@ -35,6 +37,14 @@ namespace DOLPHIN.Service.Services
             Category category = new Category();
             category = (await this.categoryUnitOfWork.CategoryRepository.FindBy(x => x.Id == id)).FirstOrDefault();
             return category;
+        }
+
+        // Using Lazy cache
+        public async Task<Category> GetByIdCache(int id)
+        {
+            Func<Task<Category>> loaded = async () => await GetById(id);
+            Category cachedResult = await cache.GetOrAdd(id.ToString(), loaded, DateTimeOffset.UtcNow.AddMinutes(15));
+            return cachedResult;
         }
 
         public async Task<bool> CreateCategories(Category category)
