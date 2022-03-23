@@ -9,5 +9,6 @@ namespace DOLPHIN.Service.Interfaces
     public interface ICoinMarketCapService
     {
         Task<List<CryptoCurrencyCategories>> GetCryptoCurrencyCategories();
+        Task<List<ListingsLastestDto>> ListingsLatest(FillterDto fillter);
     }
 }

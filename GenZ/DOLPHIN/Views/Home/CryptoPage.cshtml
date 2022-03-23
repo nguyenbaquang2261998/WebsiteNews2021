@@ -1,0 +1,8 @@
+﻿@using DOLPHIN.DTO;
+@model DOLPHIN.DTO.QuoteDto
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@await Component.InvokeAsync("ListingsLastest", new { fillter = new QuoteDto()});

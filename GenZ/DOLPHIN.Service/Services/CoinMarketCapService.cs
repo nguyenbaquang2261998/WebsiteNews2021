@@ -19,6 +19,10 @@ namespace DOLPHIN.Service.Services
             this.coinMarketCapHelper = coinMarketCapHelper;
         }
 
+        /// <summary>
+        /// Get Crypto Currency Categories.
+        /// </summary>
+        /// <returns>categories</returns>
         public async Task<List<CryptoCurrencyCategories>> GetCryptoCurrencyCategories()
         {
             var response = await this.coinMarketCapHelper.GetCryptoCurrency();
@@ -48,6 +52,63 @@ namespace DOLPHIN.Service.Services
             }
 
             return categories;
+        }
+
+        /// <summary>
+        /// Listings Latest.
+        /// </summary>
+        /// <returns>Returns a paginated list of all active cryptocurrencies with latest market data</returns>
+        public async Task<List<ListingsLastestDto>> ListingsLatest(FillterDto fillter)
+        {
+            var response = await this.coinMarketCapHelper.ListingsLatest(fillter);
+            List<ListingsLastestDto> listingsLastests = new List<ListingsLastestDto>();
+            if (response != null)
+            {
+                var result = JsonConvert.DeserializeObject<dynamic>(response);
+                QuoteDto cryptoCurrencyQuote = new QuoteDto();
+                if (result != null && result.status.error_code == (int)EnApiStatusCode.Success)
+                {
+                    foreach (var item in result?.data?.cryptoCurrencyList)
+                    {
+                        foreach (var quote in item.quotes)
+                        {
+                            if (quote?.name == "USD")
+                            {
+                                cryptoCurrencyQuote.QuoteName = quote?.name;
+                                cryptoCurrencyQuote.Price = quote?.price;
+                                cryptoCurrencyQuote.Volume24h = quote?.volume24h;
+                                cryptoCurrencyQuote.MarketCap = quote?.marketCap;
+                                cryptoCurrencyQuote.PercentChange1h = quote?.percentChange1h;
+                                cryptoCurrencyQuote.PercentChange24h = quote?.percentChange24h;
+                                cryptoCurrencyQuote.PercentChange7d = quote?.percentChange7d;
+                                cryptoCurrencyQuote.LastUpdated = quote?.lastUpdated;
+                                cryptoCurrencyQuote.MarketCapDominance = quote?.dominance;
+                                cryptoCurrencyQuote.FullyDiluted = quote?.fullyDilluttedMarketCap;
+                            }
+                        }
+
+                        ListingsLastestDto listing = new ListingsLastestDto()
+                        {
+                            Id = item.id,
+                            Name = item.name,
+                            Symbol = item.symbol,
+                            Slug = item.slug,
+                            CmcRank = item.cmcRank,
+                            NumMarketPairs = item.marketPairCount,
+                            CirculatingSupply = item.circulatingSupply,
+                            TotalSupply = item.totalSupply,
+                            MaxSupply = item.maxSupply,
+                            IsActive = item.isActive,
+                            DateAdded = item.dateAdded,
+                            Quote = cryptoCurrencyQuote
+                        };
+                        listingsLastests.Add(listing);
+                    }
+                }
+                return listingsLastests;
+            }
+
+            return listingsLastests;
         }
     }
 }

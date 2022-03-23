@@ -1,4 +1,5 @@
-﻿@model DOLPHIN.Model.News
+﻿@using DOLPHIN.DTO;
+@model DOLPHIN.Model.News
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -27,14 +28,14 @@
                 <div class="col-lg-8">
                     <!-- Trending Top -->
                     @*<div class="trending-top mb-30">
-                        <div class="trend-top-img">
-                            <img src="~/upload/@ViewBag.ArticlesLastest.CoverImage" alt="@ViewBag.ArticlesLastest.Title">
-                            <div class="trend-top-cap">
-                                <span>@ViewBag.ArticlesLastest.Category.Name</span>
-                                <h2><a href="details.html">@ViewBag.ArticlesLastest.Title</a></h2>
+                            <div class="trend-top-img">
+                                <img src="~/upload/@ViewBag.ArticlesLastest.CoverImage" alt="@ViewBag.ArticlesLastest.Title">
+                                <div class="trend-top-cap">
+                                    <span>@ViewBag.ArticlesLastest.Category.Name</span>
+                                    <h2><a href="details.html">@ViewBag.ArticlesLastest.Title</a></h2>
+                                </div>
                             </div>
-                        </div>
-                    </div>*@
+                        </div>*@
                     <!-- Trending Bottom -->
                     <div class="trending-bottom">
                         <div class="row">
@@ -127,7 +128,7 @@
     </div>
 </div>
 
-@await Component.InvokeAsync("CryptoCategories");
+@await Component.InvokeAsync("ListingsLastest", new { fillter = new FillterDto() });
 
 <!-- Trending Area End -->
 <!--   Weekly-News start -->

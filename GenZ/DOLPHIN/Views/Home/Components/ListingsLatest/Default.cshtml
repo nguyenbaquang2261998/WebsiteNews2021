@@ -1,0 +1,51 @@
+﻿@model List<DOLPHIN.DTO.ListingsLastestDto>
+@{
+    int index = 0;
+}
+@if (Model != null)
+{
+    <input type="hidden" name="datapage" value="@Model" />
+    <div class="whole-wrap">
+        <div class="container box_1170">
+            <div class="section-top-border">
+                <h3 class="mb-30">Table</h3>
+                <div class="progress-table-wrap">
+                    <div class="progress-table">
+                        <div class="table-head">
+                            <div class="serial">#</div>
+                            <div class="country">Name</div>
+                            <div class="visit">Price</div>
+                            <div class="country">24h</div>
+                            <div class="country">7d</div>
+                            <div class="country">Market Cap</div>
+                            <div class="country">Volume 24h</div>
+                            <div class="percentage">Last 7d</div>
+                        </div>
+                        @foreach (var item in Model)
+                        {
+                            index = index++;
+                            <div class="table-row">
+                                <div class="serial">@index</div>
+                                <div class="country">@item.Name</div>
+                                <div class="visit">@item.Quote.Price</div>
+                                <div class="visit">@item.Quote.VolumeChange24h</div>
+                                <div class="visit">@item.Quote.PercentChange7d</div>
+                                <div class="visit">@item.Quote.MarketCap</div>
+                                <div class="visit">@item.Quote.Volume24h</div>
+                                <div class="visit">@item.Quote.PercentChange7d</div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <canvas id="chartListingLastest"></canvas>
+    </div>
+}
+
+@section Scripts
+{
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+}

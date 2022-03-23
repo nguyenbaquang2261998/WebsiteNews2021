@@ -26,6 +26,7 @@
     <Folder Include="Controllers\Articles\ViewComponents\" />
     <Folder Include="Controllers\Crypto\ViewComponents\" />
     <Folder Include="Views\Crypto\Components\" />
+    <Folder Include="wwwroot\css\Home\" />
     <Folder Include="wwwroot\upload\" />
   </ItemGroup>
 
