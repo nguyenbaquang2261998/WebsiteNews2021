@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3++XaygSYkWkmHCFp0RRwQWIjsBrkxuNP7XztAbJNHI409TgkOrB1cElRNIbXKDUK+cCWrvpEiElYSb+8e8fw==",
+  "dgSpecHash": "vU2YfDfKTsfQ1W+zYV04imO9BTva/RaAr8cXNvTcWTs4KszS0zB02wV0bBvV6nHnOpYOLSnWJQmOkq1H1QcdxQ==",
   "success": true,
   "projectFilePath": "D:\\QuangNB\\Desktop\\MMO\\WebsiteNews2021\\GenZ\\DOLPHIN\\DOLPHIN.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,10 @@
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.23\\microsoft.aspnetcore.mvc.razor.extensions.3.1.23.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.23\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.23.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
-    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.23\\microsoft.aspnetcore.razor.language.3.1.23.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
@@ -22,7 +24,7 @@
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.3.1\\microsoft.codeanalysis.csharp.workspaces.3.3.1.nupkg.sha512",
-    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.0\\microsoft.codeanalysis.razor.3.1.0.nupkg.sha512",
+    "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.23\\microsoft.codeanalysis.razor.3.1.23.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\3.3.1\\microsoft.codeanalysis.workspaces.common.3.3.1.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\QuangNB\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",

@@ -531,7 +531,7 @@ section {
 }
 
 .au-btn-load {
-    background: #808080;
+    background: #000;
     padding: 0 40px;
     font-size: 15px;
     color: #fff;
@@ -543,7 +543,7 @@ section {
 
 .au-btn-filter {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     background: #fff;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -727,7 +727,7 @@ section {
 }
 
 .au-input--style2 {
-    color: #808080;
+    color: #000;
     line-height: 43px;
     border: 1px solid #e5e5e5;
     font-size: 14px;
@@ -748,7 +748,7 @@ section {
 .au-input--h65 {
     line-height: 63px;
     font-size: 16px;
-    color: #808080;
+    color: #000;
 }
 
 .au-input--w300 {
@@ -794,7 +794,7 @@ section {
 
 .au-input-icon i {
     font-size: 30px;
-    color: #808080;
+    color: #000;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -913,7 +913,7 @@ section {
     -moz-border-radius: 3px;
     border-radius: 3px;
     height: 40px;
-    background: #808080;
+    background: #000;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -1022,7 +1022,7 @@ section {
 }
 
 .rs-select2--light .select2-container--default .select2-selection--single .select2-selection__rendered {
-    color: #808080;
+    color: #000;
     font-size: 14px;
 }
 
@@ -1037,11 +1037,11 @@ section {
 }
 
 .rs-select2--light .select2-container--default .select2-selection--single .select2-selection__arrow b {
-    border-color: #808080 transparent transparent transparent;
+    border-color: #000 transparent transparent transparent;
 }
 
 .rs-select2--light .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
-    border-color: transparent transparent #808080 transparent;
+    border-color: transparent transparent #000 transparent;
 }
 
 .rs-select2--light v .select2-container--open .select2-dropdown {
@@ -1054,15 +1054,15 @@ section {
 }
 
 .rs-select2--border .select2-container--default .select2-selection--single .select2-selection__rendered {
-    color: #808080;
+    color: #000;
 }
 
 .rs-select2--border .select2-container--default .select2-selection--single .select2-selection__arrow b {
-    border-color: #808080 transparent transparent transparent;
+    border-color: #000 transparent transparent transparent;
 }
 
 .rs-select2--border .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
-    border-color: transparent transparent #808080 transparent;
+    border-color: transparent transparent #000 transparent;
 }
 
 .rs-select2--trans .select2-container--default .select2-selection--single {
@@ -1071,7 +1071,7 @@ section {
 }
 
 .rs-select2--trans .select2-container--default .select2-selection--single .select2-selection__rendered {
-    color: #808080;
+    color: #000;
     font-size: 14px;
     padding-left: 0;
 }
@@ -1913,7 +1913,7 @@ section {
     line-height: -moz-calc(29/14);
     line-height: calc(29/14);
     font-size: 14px;
-    color: #808080;
+    color: #000;
 }
 
 .mess__footer a, .email__footer a, .notifi__footer a {
@@ -3368,7 +3368,7 @@ section {
 }
 
 .au-task {
-    color: #808080;
+    color: #000;
 }
 
 .au-task--border .au-task__title {
@@ -3424,7 +3424,7 @@ section {
 
 .au-task__item-inner .task a {
     font-size: 16px;
-    color: #808080;
+    color: #000;
     font-weight: 400;
 }
 
@@ -3468,7 +3468,7 @@ section {
 }
 
 .au-message p {
-    color: #808080;
+    color: #000;
 }
 
 .au-message-list {
@@ -3560,7 +3560,7 @@ section {
 
 .au-message__item-time span {
     font-size: 14px;
-    color: #808080;
+    color: #000;
 }
 
 .au-message__item-text .text {
@@ -3577,7 +3577,7 @@ section {
 }
 
 .au-message__item-text .text p {
-    color: #808080;
+    color: #000;
 }
 
 @media (max-width: 767px) {
@@ -4186,7 +4186,7 @@ section {
 
 .statistic-chart-1-note span {
     font-size: 14px;
-    color: #808080;
+    color: #000;
 }
 
 .statistic-chart-1-note .big {
@@ -4254,7 +4254,7 @@ section {
 }
 
 .table-earning tbody td {
-    color: #808080;
+    color: #000;
     padding: 12px 40px;
     white-space: nowrap;
 }
@@ -4342,7 +4342,7 @@ section {
 
 .table-style1 .table td {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     border-top: none;
     border-bottom: 1px solid #f2f2f2;
     padding: 12px 6px;
@@ -4357,7 +4357,7 @@ section {
 .table-data thead tr td {
     font-size: 12px;
     font-weight: 600;
-    color: #808080;
+    color: #000;
     text-transform: uppercase;
 }
 
@@ -4384,7 +4384,7 @@ section {
 
 .table-data__info h6 {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     text-transform: capitalize;
     font-weight: 400;
 }
@@ -4421,7 +4421,7 @@ section {
 
 .more i {
     font-size: 20px;
-    color: #808080;
+    color: #000;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -4464,7 +4464,7 @@ section {
 }
 
 .table-top-campaign.table tr td:first-child {
-    color: #808080;
+    color: #000;
 }
 
 .table-top-campaign.table tr td:last-child {
@@ -4542,7 +4542,7 @@ section {
 
 .table-data2.table tbody td {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     vertical-align: middle;
     padding: 25px 40px;
     padding-right: 10px;
@@ -4638,7 +4638,7 @@ section {
 
 .table-data-feature .item i {
     font-size: 20px;
-    color: #808080;
+    color: #000;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -4651,7 +4651,7 @@ section {
 
 .block-email {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     display: inline-block;
     background: #f2f2f2;
     -webkit-border-radius: 2px;
@@ -4725,7 +4725,7 @@ section {
     border-bottom: 1px solid #f5f5f5;
     background: #fff;
     font-size: 14px;
-    color: #808080;
+    color: #000;
     padding: 12px 40px;
     padding-right: 10px;
 }
@@ -4861,11 +4861,11 @@ section {
 }
 
 .au-breadcrumb2 .au-breadcrumb-span {
-    color: #808080;
+    color: #000;
 }
 
 .au-breadcrumb2 .au-breadcrumb__list .active a {
-    color: #808080;
+    color: #000;
 }
 
 .au-breadcrumb2 .au-breadcrumb__list .active a:hover {
@@ -4873,7 +4873,7 @@ section {
 }
 
 .au-breadcrumb2 .au-breadcrumb__list li {
-    color: #808080;
+    color: #000;
 }
 
 @media (max-width: 991px) {
@@ -4956,7 +4956,7 @@ section {
 
 .welcome2-greeting p {
     font-size: 14px;
-    color: #808080;
+    color: #000;
 }
 
 /* ----- Statistic ----- */
@@ -5014,7 +5014,7 @@ section {
 
 .statistic__item .icon i {
     font-size: 180px;
-    color: #808080;
+    color: #000;
     opacity: .2;
     line-height: 1;
     vertical-align: baseline;
@@ -5088,14 +5088,14 @@ section {
 
 .au-progress__title {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     display: inline-block;
     margin-bottom: 9px;
 }
 
 .au-progress__value {
     font-size: 14px;
-    color: #808080;
+    color: #000;
     position: absolute;
     top: -28px;
     right: -15px;
@@ -5138,7 +5138,7 @@ section {
 
 .au-alert .content {
     font-size: 16px;
-    color: #808080;
+    color: #000;
 }
 
 .au-alert-success {

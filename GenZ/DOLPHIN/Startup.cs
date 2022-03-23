@@ -48,6 +48,7 @@ namespace DOLPHIN
             services.AddSession(options => {
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
             });
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             var builder = new ContainerBuilder();
             builder.Populate(services);

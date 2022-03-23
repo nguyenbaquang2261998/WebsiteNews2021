@@ -25,7 +25,7 @@ namespace DOLPHIN.Service.Services
 
         public async Task<List<News>> GetAll()
         {
-            var articles = (await this.newsUnitOfWork.NewsRepository.GetAll())
+            var articles = (await this.newsUnitOfWork.NewsRepository.GetAll()).AsNoTracking()
                 .Include(x => x.Author)
                 .Include(x => x.Category)
                 .ToList();
@@ -38,7 +38,7 @@ namespace DOLPHIN.Service.Services
 
         public async Task<News> GetArticleLastest()
         {
-            var articles = (await this.newsUnitOfWork.NewsRepository.GetAll())
+            var articles = (await this.newsUnitOfWork.NewsRepository.GetAll()).AsNoTracking()
                 .Include(x => x.Author)
                 .Include(x => x.Category)
                 .OrderByDescending(x => x.CreatedDate)
@@ -133,7 +133,7 @@ namespace DOLPHIN.Service.Services
             {
                 throw null;
             }
-            var article = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.Id == id)).FirstOrDefault();
+            var article = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.Id == id)).AsNoTracking().FirstOrDefault();
             return article;
         }
 
@@ -143,7 +143,7 @@ namespace DOLPHIN.Service.Services
             {
                 throw null;
             }
-            var articles = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.AuthorId == authorId)).ToList();
+            var articles = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.AuthorId == authorId)).AsNoTracking().ToList();
             return articles;
         }
 
@@ -153,7 +153,7 @@ namespace DOLPHIN.Service.Services
             {
                 throw null;
             }
-            var articles = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.Author.DisplayName == authorName)).ToList();
+            var articles = (await this.newsUnitOfWork.NewsRepository.FindBy(x => x.Author.DisplayName == authorName)).AsNoTracking().ToList();
             return articles;
         }
     }
