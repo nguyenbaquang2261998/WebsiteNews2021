@@ -49,7 +49,7 @@ namespace DOLPHIN.Service.Services
 
         public async Task<bool> CreateCategories(Category category)
         {
-            if (category == null || category.Id <= 0 || string.IsNullOrEmpty(category.Name)) {
+            if (category == null || string.IsNullOrEmpty(category.Name)) {
                 return false;
             }
 

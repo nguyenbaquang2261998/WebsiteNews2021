@@ -14,6 +14,7 @@ namespace DOLPHIN.Modules
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType(typeof(NewsUnitOfWork)).As(typeof(INewsUnitOfWork)).InstancePerLifetimeScope();
+            builder.RegisterType(typeof(CategoryUnitOfWork)).As(typeof(ICategoryUnitOfWork)).InstancePerLifetimeScope();
         }
     }
 }

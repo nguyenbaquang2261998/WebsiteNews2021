@@ -21,6 +21,10 @@ namespace DOLPHIN.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             var lstCategories = await this.categoriesService.GetAll();
+            if (lstCategories != null)
+            {
+                ViewBag.TotalRecord = lstCategories.Count;
+            }
             return View(lstCategories);
         }
 
@@ -34,7 +38,7 @@ namespace DOLPHIN.Areas.Admin.Controllers
         public async Task<IActionResult> Create(Category category)
         {
             var result = await this.categoriesService.CreateCategories(category);
-            return View();
+            return View("Index");
         }
 
         [HttpGet]
@@ -47,7 +51,7 @@ namespace DOLPHIN.Areas.Admin.Controllers
         public async Task<IActionResult> Update(Category category)
         {
             var result = await this.categoriesService.UpdateCategories(category);
-            return View();
+            return View("Index");
         }
 
         public async Task<IActionResult> Delete(int id)

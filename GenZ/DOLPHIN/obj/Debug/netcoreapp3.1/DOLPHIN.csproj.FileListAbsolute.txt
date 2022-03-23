@@ -3074,7 +3074,6 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\DOLP
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\DOLPHIN.WebApi.pdb
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.csprojAssemblyReference.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.AssemblyInfoInputs.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.AssemblyInfo.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.csproj.CoreCompileInputs.cache
@@ -3083,8 +3082,6 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLP
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.RazorAssemblyInfo.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.RazorAssemblyInfo.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\staticwebassets\DOLPHIN.StaticWebAssets.Manifest.cache
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\staticwebassets\DOLPHIN.StaticWebAssets.xml
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\scopedcss\bundle\DOLPHIN.styles.css
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.TagHelpers.input.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.TagHelpers.output.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.RazorCoreGenerate.cache
@@ -3140,3 +3137,10 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\runt
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\bin\Debug\netcoreapp3.1\LazyCache.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Crypto\_CryptoCategories.cshtml.g.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\CryptoCategories\Default.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.csproj.AssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\DOLPHIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\ListingsLatest\Default.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Views\Home\CryptoPage.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Update.cshtml.g.cs

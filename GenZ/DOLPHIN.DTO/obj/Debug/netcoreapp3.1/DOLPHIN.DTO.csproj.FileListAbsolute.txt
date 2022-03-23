@@ -191,7 +191,6 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\bin\Debug\netcoreapp3.1\
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\bin\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\bin\Debug\netcoreapp3.1\DOLPHIN.Model.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.csprojAssemblyReference.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.AssemblyInfoInputs.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.AssemblyInfo.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.csproj.CoreCompileInputs.cache
@@ -199,3 +198,5 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.genruntimeconfig.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.csproj.AssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.DTO\obj\Debug\netcoreapp3.1\DOLPHIN.DTO.GeneratedMSBuildEditorConfig.editorconfig

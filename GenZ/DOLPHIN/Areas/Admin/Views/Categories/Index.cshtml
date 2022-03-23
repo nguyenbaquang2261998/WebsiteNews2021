@@ -1,0 +1,123 @@
+﻿@using DOLPHIN.Helpers.Enums;
+@model IEnumerable<DOLPHIN.Model.Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        DATA TABLE
+        <h3 class="title-5 m-b-35">data table</h3>
+        <div class="table-data__tool">
+            <div class="table-data__tool-left">
+                <div class="rs-select2--light rs-select2--md">
+                    <select class="js-select2" name="property">
+                        <option selected="selected">All Properties</option>
+                        <option value="">Option 1</option>
+                        <option value="">Option 2</option>
+                    </select>
+                    <div class="dropDownSelect2"></div>
+                </div>
+                <div class="rs-select2--light rs-select2--sm">
+                    <select class="js-select2" name="time">
+                        <option selected="selected">Today</option>
+                        <option value="">3 Days</option>
+                        <option value="">1 Week</option>
+                    </select>
+                    <div class="dropDownSelect2"></div>
+                </div>
+                <button class="au-btn-filter">
+                    <i class="zmdi zmdi-filter-list"></i>filters
+                </button>
+            </div>
+            <div class="table-data__tool-right">
+                <a href="/admin/categories/create" class="au-btn au-btn-icon au-btn--green au-btn--small">
+                    <i class="zmdi zmdi-plus"></i>add article
+                </a>
+                <div class="rs-select2--dark rs-select2--sm rs-select2--dark2">
+                    <select class="js-select2" name="type">
+                        <option selected="selected">Export</option>
+                        <option value="">Option 1</option>
+                        <option value="">Option 2</option>
+                    </select>
+                    <div class="dropDownSelect2"></div>
+                </div>
+            </div>
+        </div>
+        <div class="table-responsive table-responsive-data2">
+            <table class="table table-data2">
+                <thead>
+                    <tr>
+                        <th class="text-center">Id</th>
+                        <th class="text-center">Name</th>
+                        <th class="text-center">Description</th>
+                        <th class="text-center">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="tr-shadow">
+                            <td class="text-center">@item.Id</td>
+                            <td class="text-center">@item.Name</td>
+                            <td class="text-center">@item.Description</td>
+                            <td class="text-center">
+                                <div class="table-data-feature">
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="Edit">
+                                        <a href="/Admin/Categories/Update/@item.Id"><i class="zmdi zmdi-edit"></i></a>
+                                    </span>
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="Delete">
+                                        <a onclick="Delete(@item.Id)"><i class="zmdi zmdi-delete"></i></a>
+                                    </span>
+                                    <span class="item" data-toggle="tooltip" data-placement="top" title="More">
+                                        <i class="zmdi zmdi-more"></i>
+                                    </span>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="spacer"></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        Total record : @ViewBag.TotalRecord
+    </div>
+</div>
+<script>
+    function Delete(Id) {
+        var data = {
+            Id: Id,
+        };
+        var title = "Bạn có đồng ý xóa dữ liệu này không?";
+        var url = '/Admin/Categories/Delete/';
+        swal({
+            title: title,
+            icon: "warning",
+            buttons: {
+                ok: "Xác nhận",
+                cancel: "Hủy",
+            }
+        }).then((isConfirm) => {
+            if (isConfirm != 'ok') {
+
+            } else {
+                $.post(url, data,
+                    function (rs) {
+                        if (rs.status > 0) {
+                            swal({
+                                title: "Xóa thành công!",
+                                text: "Dữ liệu của bạn đã được cập nhật!",
+                                icon: "success",
+                            }).then(function (isConfirm) {
+                                window.location.href = '/Admin/Categories';
+                            });
+                        }
+                        else {
+                            toastr.error(rs.message);
+                        }
+                    });
+            }
+        });
+    }
+</script>

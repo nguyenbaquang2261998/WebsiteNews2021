@@ -1197,15 +1197,12 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\DOLPHIN.Model.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\DOLPHIN.Repository.pdb
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\DOLPHIN.Service.pdb
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.csprojAssemblyReference.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.AssemblyInfoInputs.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.AssemblyInfo.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.csproj.CoreCompileInputs.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DOLPHIN.WebApi.StaticWebAssets.Manifest.cache
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DOLPHIN.WebApi.StaticWebAssets.xml
-D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\DOLPHIN.WebApi.styles.css
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.RazorTargetAssemblyInfo.cache
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.csproj.CopyComplete
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.dll
@@ -1237,3 +1234,5 @@ D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\bin\Debug\netcoreapp3.1\LazyCache.dll
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.csproj.AssemblyReference.cache
+D:\QuangNB\Desktop\MMO\WebsiteNews2021\GenZ\DOLPHIN.WebApi\obj\Debug\netcoreapp3.1\DOLPHIN.WebApi.GeneratedMSBuildEditorConfig.editorconfig
